@@ -1,6 +1,0 @@
-{
-  "name": "Image Studio",
-  "description": "Image Studio is a high-fidelity image compressor, resizer, format converter, crop tool, and full suite of offline local PDF tools.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
